@@ -1,7 +1,6 @@
 ### Olá! Eu sou Kelvson Nilson👋
 
-- 🌱 Estou atualmente estudando C
-- 😄 Pronomes: ele/dele
+- 🌱 Atualmente estudando a linguagem C
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Kelvson-C" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
