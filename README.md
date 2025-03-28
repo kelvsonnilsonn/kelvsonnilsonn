@@ -27,3 +27,17 @@ Acredito que o melhor jeito de aprender é ensinando
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,python,c,git,github,vscode&perline=6" />
 </p>
+
+## 📊 Minhas Estatísticas no GitHub
+
+<div align="center">
+  
+  <!-- Estatísticas principais -->
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=kelvsonnilsonn&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true"/>
+  
+  <!-- Linguagens mais usadas -->
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelvsonnilsonn&layout=compact&langs_count=6&theme=dracula&hide_border=true&hide=html,css,scss,less,jupyter%20notebook"/>
+  
+  <!-- Sequência de contribuições -->
+  <img height="165em" src="https://streak-stats.demolab.com?user=kelvsonnilsonn&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
+</div>
