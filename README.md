@@ -25,5 +25,5 @@ Acredito que o melhor jeito de aprender é ensinando
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,python,c,git,github,vscode,eclipse,postgres,mysql,linux&perline=6" />
+  <img src="https://skillicons.dev/icons?i=java,python,c,git,github,vscode&perline=6" />
 </p>
