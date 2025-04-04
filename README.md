@@ -7,7 +7,7 @@
 ## 🧠 Sobre Mim
 
 💻 **Linguagens que trabalho:**  
-![Java](https://img.shields.io/badge/Python-Básico-3776AB?logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-Básico-3776AB?logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-Básico-3776AB?logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-Básico-A8B9CC?logo=c&logoColor=black)
 
