@@ -1,13 +1,13 @@
 # 👨‍💻 Olá, eu sou Kelvson Nilson!
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5C7AFF&width=435&lines=Desenvolvedor+Java+Intermediário;Apaixonado+por+Backend;Aprendendo+Java;Focado+em+Boas+Práticas" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5C7AFF&width=435&lines=Desenvolvedor+Java+Iniciante;Apaixonado+por+Backend;Aprendendo+Java;Focado+em+Boas+Práticas" alt="Typing SVG" />
 </div>
 
 ## 🧠 Sobre Mim
 
 💻 **Linguagens que trabalho:**  
-![Java](https://img.shields.io/badge/Java-Intermediário-007396?logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/Python-Básico-3776AB?logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-Básico-3776AB?logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-Básico-A8B9CC?logo=c&logoColor=black)
 
