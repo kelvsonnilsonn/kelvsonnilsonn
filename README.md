@@ -1,8 +1,8 @@
 # 👨‍💻 Olá, eu sou Kelvson Nilson!
 
-<p align="center">
+<div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5C7AFF&width=435&lines=Desenvolvedor+Java+Iniciante;Apaixonado+por+Backend;Aprendendo+Java;Focado+em+Boas+Práticas" alt="Typing SVG" />
-</p>
+</div>
 
 ## 🧠 Sobre Mim
 
