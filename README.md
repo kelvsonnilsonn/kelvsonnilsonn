@@ -15,7 +15,7 @@
 Construindo projetos com Java e Spring Boot
 
 📚 **Estudando:**  
-• Design Patterns  
+• Infraestrutura de Software  
 • Arquitetura de Software  
 • Banco de Dados Relacionais
 
