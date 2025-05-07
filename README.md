@@ -1,32 +1,31 @@
-# 👨‍💻 Olá, eu sou Kelvson Nilson!
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5C7AFF&width=435&lines=Desenvolvedor+Java+Iniciante;Apaixonado+por+Backend;Aprendendo+Java;Focado+em+Boas+Práticas" alt="Typing SVG" />
-</div>
-
-## 🧠 Sobre Mim
-
-💻 **Linguagens que trabalho:**  
-![Java](https://img.shields.io/badge/Java-Básico-3776AB?logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-Básico-3776AB?logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-Básico-A8B9CC?logo=c&logoColor=black)
-
-🎯 **Foco Atual:**  
-Construindo projetos com Java e Spring Boot
-
-📚 **Estudando:**  
-• Infraestrutura de Software  
-• Arquitetura de Software  
-• Banco de Dados Relacionais
-
-💡 **Curiosidade:**  
-Acredito que o melhor jeito de aprender é ensinando
-
-## 🛠️ Tech Stack
+<h1 align="center">Olá, eu sou o Kelvson 👋</h1>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,c,git,github,vscode&perline=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=kelvsonnilsonn&theme=darkhub&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
 </p>
+
+---
+
+### 💻 Minhas Habilidades
+
+#### Principais:
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+#### Já utilizei:
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+---
+
+### 📚 Estudando atualmente
+![Arquitetura de Software](https://img.shields.io/badge/Estudando-Arquitetura%20de%20Software-4B8BBE?style=for-the-badge&logo=graduation-cap&logoColor=white)
+
+---
+
+### 🛠️ Ferramentas que uso
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ## 📊 Minhas Estatísticas no GitHub
 
